@@ -1,1 +1,1 @@
-# dave-project
+# Sampana Laboratory Management System
